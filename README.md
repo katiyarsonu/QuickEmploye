@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite basic feature no drag and drop profile wrking also header not improved
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
